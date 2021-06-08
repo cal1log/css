@@ -5,3 +5,5 @@
 ## lessons
 
 ## 1 jun 2021 - lesson 1
+
+## 8 jun 2021 - lesson 2
